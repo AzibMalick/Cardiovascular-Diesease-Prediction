@@ -66,3 +66,12 @@ From both model training and visual analysis, we found that:
 - 🧠 SHAP/LIME explainability
 - 🌐 Deploy using Streamlit as a diagnostic tool
 - 📊 Integrate more patient hist
+
+## 👨‍💻 Author
+
+Developed with ❤️ by **Azib Malick**  
+© 2025 Azib Malick. All rights reserved.
+
+---
+
+⭐ **If you found this useful, consider giving the repo a star!**
