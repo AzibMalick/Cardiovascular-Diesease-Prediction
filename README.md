@@ -69,7 +69,7 @@ From both model training and visual analysis, we found that:
 
 ## 👨‍💻 Author
 
-Developed with ❤️ by **Azib Malick**  
+Developed by **Azib Malick**  
 © 2025 Azib Malick. All rights reserved.
 
 ---
