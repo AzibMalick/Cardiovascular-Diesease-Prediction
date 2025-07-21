@@ -1,0 +1,6 @@
+These are the libraries and the respective versions used to make this project and i hope it will help you learn something.
+pandas==2.3.1
+numpy==1.26.4
+matplotlib==3.8.4
+seaborn==0.12.2
+scikit-learn==1.4.2
